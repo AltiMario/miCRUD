@@ -1,0 +1,4 @@
+{:webservice {:port 3000}
+ :aws        {:access-key "x"
+              :secret-key "x/x"}
+ }

@@ -1,6 +1,6 @@
 # Mini report CRUD
 
-A mini Clojure RESTful API microservice to manage simple reports, with CRUD operations based on DynamoDB, with a basic web interface and Swagger contracts
+A mini Clojure RESTful API microservice to manage simple reports, with CRUD operations based on DynamoDB, a basic web interface and Swagger contracts
 
 ## Usage
 
@@ -25,3 +25,8 @@ http://localhost:3000
 #### Swagger service
 
 http://localhost:3000/swagger
+
+
+## Configuration
+
+Modify the resources/config.edn file for the AWS credentials and server port
